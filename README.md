@@ -33,7 +33,7 @@
 **10_Zymo_magbead**:
    Protocols related to Zymo magnetic bead processing.
 
-3. **11_Nanopore**:
+**11_Nanopore**:
    Contains procedures specific to the Nanopore sequencing platform.
 
 
